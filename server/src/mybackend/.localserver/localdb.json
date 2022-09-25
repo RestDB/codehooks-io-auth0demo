@@ -1,0 +1,96 @@
+[
+  [
+    "_kvspacesessions",
+    {
+      "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik5VdnItdUhTQWJwcTJHbWdZQk8wQSJ9.eyJpc3MiOiJodHRwczovL2Rldi1zaDhycm8yZi51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NjMyYzI5YWQ2ODViZTdiNzM2ZTg0ODQzIiwiYXVkIjpbImh0dHBzOi8vY29kZWhvb2tzYmFja2VuZCIsImh0dHBzOi8vZGV2LXNoOHJybzJmLnVzLmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE2NjQwNDY4MzUsImV4cCI6MTY2NDEzMzIzNSwiYXpwIjoiUVhBendYOElYR3RjSzgwaXZDVnhTRk5Ib1FpTkRpTDAiLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIn0.Ymqr48hmma-UooMVtKbq-U2Vl5XFlQx-7D2yiR4LWa-yyCOdSabjP2FX41AvK--e978vlc3Vm7H8STFIZ9dqJRpca-kEiu6MzMxptmTdaz-44AuWSl18S6ndiw08q-if8F6UzZuijcvMYcWgRbbXq2GZRVndpae0JiKeTFwZ29ffk6kLnwdAmJB41nwGmauQoCP5-F2H6GRwADJxiH5dvV9hE-AYwffW9f1mc5xXTxvCg-FFCiqI4XgLH-qXhqdxak2o_G91iTdV15OgDJxqA0d8ITiZGe-rrVyCdHnw0_Oj9mCY6sSMvcUcYAIcSNJR5OeuBWn0s_x9SRyM-wrfBA": {
+        "val": {
+          "sub": "auth0|632c29ad685be7b736e84843",
+          "nickname": "knutmt",
+          "name": "knutmt@codehooks.io",
+          "picture": "https://s.gravatar.com/avatar/5afdf32f0049c7ea9fb1494f077f6058?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fkn.png",
+          "updated_at": "2022-09-24T19:05:50.597Z",
+          "email": "knutmt@codehooks.io",
+          "email_verified": true
+        },
+        "_archiveAt": 1664048037917
+      },
+      "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik5VdnItdUhTQWJwcTJHbWdZQk8wQSJ9.eyJpc3MiOiJodHRwczovL2Rldi1zaDhycm8yZi51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NjMyYzI5YWQ2ODViZTdiNzM2ZTg0ODQzIiwiYXVkIjpbImh0dHBzOi8vY29kZWhvb2tzYmFja2VuZCIsImh0dHBzOi8vZGV2LXNoOHJybzJmLnVzLmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE2NjQwNDcxMTIsImV4cCI6MTY2NDEzMzUxMiwiYXpwIjoiUVhBendYOElYR3RjSzgwaXZDVnhTRk5Ib1FpTkRpTDAiLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIn0.MWUlYoNbT6c6WyYGOsDpDUZq2Qj4dmGOdgGFZ8W2i5gXnnOcHOdUPI4EH-uzp8bB_oxtRJr6ojzc3USEzNP9uYQQ-6UBqPelzydPJM3fNOt9FdtppIv4RyFrOrrZNDON0KI0uU9w9BBIG-oCYJkg2eU5PvZPJO9ygKL1ADjm89kLX-fNWTEbqF-CD2akU7gL4iSVrJWuIeS23T9vb1u7yYQrYWYrqv4RIvPRtyQ0ubL49w1MDbhk-8-wa031IixZzCevWoG-4ZDPx69G6I_Scps39paLvINztzzaw5vEkddiJ45l1Oh5rXcH-ENoQreB2e-h4yW_noBh9ly4de2lKA": {
+        "val": {
+          "sub": "auth0|632c29ad685be7b736e84843",
+          "nickname": "knutmt",
+          "name": "knutmt@codehooks.io",
+          "picture": "https://s.gravatar.com/avatar/5afdf32f0049c7ea9fb1494f077f6058?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fkn.png",
+          "updated_at": "2022-09-24T19:05:50.597Z",
+          "email": "knutmt@codehooks.io",
+          "email_verified": true
+        },
+        "_archiveAt": 1664048346241
+      },
+      "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik5VdnItdUhTQWJwcTJHbWdZQk8wQSJ9.eyJpc3MiOiJodHRwczovL2Rldi1zaDhycm8yZi51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NjMyYzI5YWQ2ODViZTdiNzM2ZTg0ODQzIiwiYXVkIjpbImh0dHBzOi8vY29kZWhvb2tzYmFja2VuZCIsImh0dHBzOi8vZGV2LXNoOHJybzJmLnVzLmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE2NjQwNDczMjAsImV4cCI6MTY2NDEzMzcyMCwiYXpwIjoiUVhBendYOElYR3RjSzgwaXZDVnhTRk5Ib1FpTkRpTDAiLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIn0.RJJEozVBnPhhvdqmhsqvauz63k_Zy7ulerXZwPj-mnxI5U6QZKXzFWnTdWn3ndEwGlqHsUp9MqFX8rlZF_4q_xrpVtKuCxu7UbAWrLi_TmxL7q6nPyNkyIEbXMhQxRgOQkOtAiX7-3iG2UpZjZF818B2pDJEWsUo1Aey2xVajjiJMMw7a3f_OogcJTpv9nisnQEnXRf0RHX2zUlJtt2RqHepXRJpsgAJQKqypmzKkMaFbO14Emz5rnHMWPGpa0EvEvpWkpOZuVpqcr0Bc4vPoUMTeReSfo58kqJQL9ADh7m2qD8eftroUHX1ytrd8o1IH9a1w0j9fk41r02ArsrpXQ": {
+        "val": {
+          "sub": "auth0|632c29ad685be7b736e84843",
+          "nickname": "knutmt",
+          "name": "knutmt@codehooks.io",
+          "picture": "https://s.gravatar.com/avatar/5afdf32f0049c7ea9fb1494f077f6058?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fkn.png",
+          "updated_at": "2022-09-24T19:05:50.597Z",
+          "email": "knutmt@codehooks.io",
+          "email_verified": true
+        },
+        "_archiveAt": 1664048522368
+      },
+      "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik5VdnItdUhTQWJwcTJHbWdZQk8wQSJ9.eyJpc3MiOiJodHRwczovL2Rldi1zaDhycm8yZi51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NjMyYzI5YWQ2ODViZTdiNzM2ZTg0ODQzIiwiYXVkIjpbImh0dHBzOi8vY29kZWhvb2tzYmFja2VuZCIsImh0dHBzOi8vZGV2LXNoOHJybzJmLnVzLmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE2NjQwNDczNDgsImV4cCI6MTY2NDEzMzc0OCwiYXpwIjoiUVhBendYOElYR3RjSzgwaXZDVnhTRk5Ib1FpTkRpTDAiLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIn0.JpDua038iHkryGNsoz27NG-x5PGbTdCaVB__VOH-b61vB89NswZdQHE-0xCf91JpgbC8Pg4qBsqYjNnnCb0luLzM6OI6UjszSojGo-MkeqO05aB-vc_l8FEqgmG7AtU6IgDWVZgu5IrnVJUxK-Z6Ihkp7PilMg-p8YqQHsuMHkWK5wD36UnJOIyq4d4QBpBhMbL7F2cCE6dCFfw1U9yCixkfBjKC9li19rYQKOy7PiPybRFpoeu77rUrLb31qfipbcR-iBYzLU0sMOWDRWRRDjST_sWxpL5_IwUf2ReI8lzxBL2IKu5W8tXBfy6-nfG610P0E_RM81RZ-1djG-Be-g": {
+        "val": {
+          "sub": "auth0|632c29ad685be7b736e84843",
+          "nickname": "knutmt",
+          "name": "knutmt@codehooks.io",
+          "picture": "https://s.gravatar.com/avatar/5afdf32f0049c7ea9fb1494f077f6058?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fkn.png",
+          "updated_at": "2022-09-24T19:05:50.597Z",
+          "email": "knutmt@codehooks.io",
+          "email_verified": true
+        },
+        "_archiveAt": 1664048549769
+      },
+      "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik5VdnItdUhTQWJwcTJHbWdZQk8wQSJ9.eyJpc3MiOiJodHRwczovL2Rldi1zaDhycm8yZi51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NjMyYzI5YWQ2ODViZTdiNzM2ZTg0ODQzIiwiYXVkIjpbImh0dHBzOi8vY29kZWhvb2tzYmFja2VuZCIsImh0dHBzOi8vZGV2LXNoOHJybzJmLnVzLmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE2NjQwNDc3MTQsImV4cCI6MTY2NDEzNDExNCwiYXpwIjoiUVhBendYOElYR3RjSzgwaXZDVnhTRk5Ib1FpTkRpTDAiLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIn0.FFZzONjN7dr8zhL3o3X8vSHRNF0HL65ZcUwB2NkvCKiUmcKS6pajZWHe_kQWVpoD5BUP-R-ruaYxgMyMPwuDKGAKEu3nLL0_Jc16HnHTZElsFmDhGT8Hrl19cZo4cL600AiK-p7YoUbG7NBejzbXaRrpC_R5NPLV5Cz1Gq4lYgUXzIbijUpdfN-ezciH1OmxtPP-3hHdp6zjTQuTc89HPOMl4wS-QAcUGJztNknhoXo8JkqUN6x5lWOO0TSOIJWK406NGXdcPyX1pYX_BHIpTWSStV-ME_GwL8B2tLpXkR8aZb3Ojcbx8p2GKIFA6P1mAdguQbiJAv7WRS7hPcv5ug": {
+        "val": {
+          "sub": "auth0|632c29ad685be7b736e84843",
+          "nickname": "knutmt",
+          "name": "knutmt@codehooks.io",
+          "picture": "https://s.gravatar.com/avatar/5afdf32f0049c7ea9fb1494f077f6058?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fkn.png",
+          "updated_at": "2022-09-24T19:05:50.597Z",
+          "email": "knutmt@codehooks.io",
+          "email_verified": true
+        },
+        "_archiveAt": 1664048917968
+      },
+      "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik5VdnItdUhTQWJwcTJHbWdZQk8wQSJ9.eyJpc3MiOiJodHRwczovL2Rldi1zaDhycm8yZi51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NjMyYzI5YWQ2ODViZTdiNzM2ZTg0ODQzIiwiYXVkIjpbImh0dHBzOi8vY29kZWhvb2tzYmFja2VuZCIsImh0dHBzOi8vZGV2LXNoOHJybzJmLnVzLmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE2NjQwNDc3NDgsImV4cCI6MTY2NDEzNDE0OCwiYXpwIjoiUVhBendYOElYR3RjSzgwaXZDVnhTRk5Ib1FpTkRpTDAiLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIn0.eVB-cREAZhfNDYrgWepSiTHikT2owv-UnamSub1exDgpBrgj0QwXWj8R8JI-4EcNTYiySBJ4VZKYBZoJjL9O9miirC4Wn7wZoFmtSxaZUU6F6NCv_Gyegmy1sPeUenDIQ9YYO0fJdbOmMcxfz2qhj8BoC0s61fywZ9nEya-RZpc9VC_lIbF37wu1xI2co4bQyoeGYrs_FsB-INwyIKAC0mZs4kacy5ZSe4LrIRoPT9Qn74i2GFc1N9sdGm6SFsPoeT0cwQEd4bUkvKKONauPxc7GCCXkKwhBzpZFkWryIm9kWxbAiNL_PcUZHikUdIaOLsbQjA0v8MgSx_yK5fN91A": {
+        "val": {
+          "sub": "auth0|632c29ad685be7b736e84843",
+          "nickname": "knutmt",
+          "name": "knutmt@codehooks.io",
+          "picture": "https://s.gravatar.com/avatar/5afdf32f0049c7ea9fb1494f077f6058?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fkn.png",
+          "updated_at": "2022-09-24T19:05:50.597Z",
+          "email": "knutmt@codehooks.io",
+          "email_verified": true
+        },
+        "_archiveAt": 1664048952051
+      }
+    }
+  ],
+  [
+    "_defaultkvspace",
+    {
+      "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik5VdnItdUhTQWJwcTJHbWdZQk8wQSJ9.eyJpc3MiOiJodHRwczovL2Rldi1zaDhycm8yZi51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NjMyYzI5YWQ2ODViZTdiNzM2ZTg0ODQzIiwiYXVkIjpbImh0dHBzOi8vY29kZWhvb2tzYmFja2VuZCIsImh0dHBzOi8vZGV2LXNoOHJybzJmLnVzLmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE2NjQwNDYzNTEsImV4cCI6MTY2NDEzMjc1MSwiYXpwIjoiUVhBendYOElYR3RjSzgwaXZDVnhTRk5Ib1FpTkRpTDAiLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIn0.g9JVu_cESVFaeOFid7woFMpCFaU8-TUzZ_EgB4fxwJcZ5ny6HAfVAFeB0krjEFaZFxxDXOekmpdo4P8ZTyvLqN9lgsB3GORWu-bQk41DJ1VbsQqcz3IKGmaiJjtdcPTfZ_NMHwNuHbradsBsqFdHoha1owCAqfgavbEIgLivk4_0cfXiWZdhQKSGqjbdhdDID-l0ut7mWfvUKESuh_xtkyf-RQn4VTsq-BMpJYJLH-f0koWbKL_MFNeww7KxcTI0ax3HVb2G9Y3Z6GfIlTq-mMOp5TsF89ujZERguvKZidVDtXG4tIN_TvAVDL3_u0a4nCDCeADic_iKby0nw612IQ": {
+        "val": {
+          "keyspace": "sessions",
+          "ttl": 1200000
+        }
+      },
+      "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik5VdnItdUhTQWJwcTJHbWdZQk8wQSJ9.eyJpc3MiOiJodHRwczovL2Rldi1zaDhycm8yZi51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NjMyYzI5YWQ2ODViZTdiNzM2ZTg0ODQzIiwiYXVkIjpbImh0dHBzOi8vY29kZWhvb2tzYmFja2VuZCIsImh0dHBzOi8vZGV2LXNoOHJybzJmLnVzLmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE2NjQwNDY0NzcsImV4cCI6MTY2NDEzMjg3NywiYXpwIjoiUVhBendYOElYR3RjSzgwaXZDVnhTRk5Ib1FpTkRpTDAiLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIn0.OOe3AQ8RNcUDPqUvv2xbhuO78uRWR1tgic39F8z09Q8xrbzk26IgjiZy7gKjNFThpeq1ObeRTmmFGPSvitpkS7b_y2LV2wtS0NG6JtwFY7vjTSfQVJC6KH7PLIZ9kPP1M-4yInOu2DvVdJC_Kk-tZVIuvkFPiVGtAL91z0An55iIPLdhmDm-D27xwMy8M6xBA0QQ-1RyN0zJ4q0R_CWiAS8Mqfrvz0cV62S6CFys-nKyas34CHoWCFCFV6Ugz_QoP6fUbSyis0e7o6tKrzg4Tb5fXFDP-t6rqdDulVj3Ebn5CNWkP-B2-UnVv518l2kNin8A3VTJshFtw6DIi80Ztw": {
+        "val": {
+          "keyspace": "sessions",
+          "ttl": 1200000
+        }
+      }
+    }
+  ]
+]
