@@ -32,7 +32,7 @@ const NavBar = () => {
 
   const logoutWithRedirect = () =>
     logout({
-      returnTo: window.location.origin,
+      returnTo: `${window.location.origin}/codehooks-io-auth0demo`,
     });
 
   return (
