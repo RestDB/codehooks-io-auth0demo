@@ -7,8 +7,10 @@ import fetch from 'node-fetch';
 
 
 // get user profile if not available and cache it
-app.use(async (req, res, next) => {
-  try {
+/*app.use(async (req, res, next) => {
+  console.log("middleware");
+  return next();
+  /*try {
     const { authorization } = req.headers;
     if (authorization) {
       const token = authorization.replace('Bearer ','');
@@ -32,12 +34,12 @@ app.use(async (req, res, next) => {
   } catch (error) {
     next(error);
   } 
-});
+}); */
 
 app.get('/hello', (req, res) => {
   console.log("hello");
-  //res.json({"message": "hello"});
-  res.json({"message": "hello " + req.user.nickname, user: req.user});
+  res.json({"message": "hello"});
+  // res.json({"message": "hello " + req.user.nickname, user: req.user});
 });
 
 
