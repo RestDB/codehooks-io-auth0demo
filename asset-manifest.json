@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codehooks-io-auth0demo/static/css/main.e79340e1.css",
+    "main.js": "/codehooks-io-auth0demo/static/js/main.b6dede2c.js",
+    "static/media/logo.svg": "/codehooks-io-auth0demo/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "static/media/loading.svg": "/codehooks-io-auth0demo/static/media/loading.330b7d99bfbae8039a5456998d97914f.svg",
+    "index.html": "/codehooks-io-auth0demo/index.html",
+    "main.e79340e1.css.map": "/codehooks-io-auth0demo/static/css/main.e79340e1.css.map",
+    "main.b6dede2c.js.map": "/codehooks-io-auth0demo/static/js/main.b6dede2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79340e1.css",
+    "static/js/main.b6dede2c.js"
+  ]
+}
