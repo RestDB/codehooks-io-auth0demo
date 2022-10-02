@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Button, Alert } from "reactstrap";
-import Highlight from "../components/Highlight";
+import SyntaxHighlighter from 'react-syntax-highlighter';
 import { useAuth0, withAuthenticationRequired } from "@auth0/auth0-react";
 import { getConfig } from "../config";
 import Loading from "../components/Loading";
@@ -65,7 +65,6 @@ export const ExternalApiComponent = () => {
       });
 
       const responseData = await response.json();
-      console.log(responseData);
       setState({
         ...state,
         showResult: true,
@@ -180,14 +179,13 @@ export const ExternalApiComponent = () => {
           Ping API
         </Button>
       </div>
-
       <div className="result-block-container">
         {state.showResult && (
           <div className="result-block" data-testid="api-result">
             <h6 className="muted">Result</h6>
-            <Highlight>
-              <span>{JSON.stringify(state.apiMessage, null, 2)}</span>
-            </Highlight>
+            <SyntaxHighlighter>
+             {JSON.stringify(state.apiMessage, null, 2)}
+            </SyntaxHighlighter>
           </div>
         )}
       </div>

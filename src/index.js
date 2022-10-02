@@ -17,11 +17,14 @@ const onRedirectCallback = (appState) => {
 // for a full list of the available properties on the provider
 const config = getConfig();
 
+// hack to make it work with subdirectory for deployment on github pages
+const redirectUri = window.location.origin.indexOf("localhost") !== -1 ? window.location.origin : `${window.location.origin}/codehooks-io-auth0demo`;
+
 const providerConfig = {
   domain: config.domain,
   clientId: config.clientId,
   ...(config.audience ? { audience: config.audience } : null),
-  redirectUri: `${window.location.origin}/codehooks-io-auth0demo`,
+  redirectUri,
   onRedirectCallback,
 };
 

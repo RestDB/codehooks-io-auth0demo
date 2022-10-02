@@ -9,7 +9,7 @@ import fetch from 'node-fetch';
 // middleware to get Auth0 user info in request
 // all routes will now have access to user info in req.user
 
-const userProfileFromAuth0 = ({ domain }) => async (req, res, next) => {
+const userProfileFromAuth0 = async (req, res, next) => {
   try {
     const { authorization } = req.headers;
     if (authorization) {
@@ -26,7 +26,7 @@ const userProfileFromAuth0 = ({ domain }) => async (req, res, next) => {
       }
 
       // fetch user from Auth0 API
-      const resp = await fetch(`https://${domain}/userinfo`, {
+      const resp = await fetch(`https://${process.env.AUTH0_DOMAIN}/userinfo`, {
         headers: {
           Authorization: `Bearer ${token}`,
         },
@@ -45,7 +45,7 @@ const userProfileFromAuth0 = ({ domain }) => async (req, res, next) => {
   } 
 }
 
-app.use(userProfileFromAuth0({domain: process.env.AUTH0_DOMAIN}));
+app.use(userProfileFromAuth0);
 
 app.get('/hello', (req, res) => {
   const nickname = (req.user && req.user.nickname) || 'anonymous';
