@@ -47,9 +47,11 @@ const userProfileFromAuth0 = async (req, res, next) => {
 
 app.use(userProfileFromAuth0);
 
-app.get('/hello', (req, res) => {
+app.get('/hello', async (req, res) => {
   const nickname = (req.user && req.user.nickname) || 'anonymous';
-  res.json({"message": `Hello ${nickname}`, user: req.user, now: new Date()});
+  const conn = await Datastore.open();
+  const apicounter = await conn.incr('apicounter', 1); // increase a counter for each call 
+  res.json({"message": `Hello ${nickname}`, user: req.user, now: new Date(), apicounter});
 });
 
 
