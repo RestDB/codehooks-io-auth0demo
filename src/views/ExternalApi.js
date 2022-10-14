@@ -68,7 +68,7 @@ export default app.init();
 `;
 
 export const ExternalApiComponent = () => {
-  const { apiOrigin = "https://mybackend-r96a.api.codehooks.io", audience } = getConfig();
+  const { apiOrigin = "https://mybackend-6708.api.codehooks.io", audience } = getConfig();
 
   const [state, setState] = useState({
     showResult: false,
